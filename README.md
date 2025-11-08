@@ -1,2 +1,2 @@
 # Potential-Customer-Predictions
-MIT Assignment
+MIT program assignment
